@@ -2,12 +2,12 @@
 
 Server socket to use in Angular-Sockets Udemy course:
 
-Install project dependencies.
+### Install project dependencies.
 ```
 npm install
 ```
 
-Generate DIST
+### Generate DIST
 ```
 npm run watch
 ```
@@ -16,7 +16,7 @@ or
 tsc -w
 ```
 
-Initialize server:
+### Initialize server:
 ```
 npm run start
 ```
