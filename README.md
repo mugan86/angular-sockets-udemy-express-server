@@ -16,7 +16,7 @@ or
 tsc -w
 ```
 
-### Initialize server:
+### Initialize server
 ```
 npm run start
 ```
